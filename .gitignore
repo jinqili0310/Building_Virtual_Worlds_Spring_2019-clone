@@ -35,3 +35,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/_Scenes/0_Unity_C#_Complete/0_Movement_and_OnTrigger_Example.unity
+Assets/_Scenes/1_Unity_C#_Class_Example.meta
+Assets/Prefabs/Simple Floor.prefab
+Assets/Scripts/Complete/9_Properties.meta
+ProjectSettings/ProjectSettings.asset
